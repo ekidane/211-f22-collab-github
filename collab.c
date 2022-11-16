@@ -21,6 +21,11 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
+void gfoy2_partner2() {
+  printf("Garrett Foy and {Partner Name}\n");
+  printf("We learned to make a fork to create a PR on a stranger's repo\n");
+}
+
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
