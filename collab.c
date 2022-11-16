@@ -21,8 +21,8 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
-void gfoy2_partner2() {
-  printf("Garrett Foy and {Partner Name}\n");
+void gfoy2_seanmj3() {
+  printf("Garrett Foy and Sean James\n");
   printf("We learned to make a fork to create a PR on a stranger's repo\n");
 }
 
